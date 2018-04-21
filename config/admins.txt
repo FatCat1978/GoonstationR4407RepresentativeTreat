@@ -1,0 +1,1 @@
+This is automatically set - by the game, when you connect it detects if you are world.host and gives you automatic host rank, this is broken.
